@@ -1,6 +1,6 @@
 const fetchPlanets = () => {
     const ul = document.getElementById('list-planets')
-
+    ul.innerHTML = "";
     fetch('https://swapi.dev/api/planets/')
         .then((data) => data.json())
         .then((response) => {
@@ -33,6 +33,7 @@ const fetchSinglePlanet = (index) => {
                             <p>Climate: ${response.climate}</p>
                             <p>Population: ${response.population}</p>
                             <p>Terrain: ${response.terrain}</p>
+                            <button onClick="fetchPlanets()">See List of Planets</button>
                         </div>
                     `
         li.innerHTML = card;
