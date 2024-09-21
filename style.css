@@ -130,5 +130,17 @@ body {
 #single-planet button:hover {
     cursor: pointer;
     background-color: #0056b3;
-
 }
+
+#search-input {
+    padding: 10px 20px;
+    font-size: 14px;
+}
+
+.search-btn {
+    padding: 10px 20px;
+    font-size: 14px;
+    background-color: #769605;
+    color: white;
+    border-radius: 4px;
+}  
