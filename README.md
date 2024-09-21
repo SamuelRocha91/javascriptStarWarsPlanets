@@ -1,5 +1,7 @@
 # ![Beginner Project Logo](https://img.icons8.com/emoji/48/000000/star-emoji.png) Star Wars Planets ![Beginner Project Logo](https://img.icons8.com/emoji/48/000000/star-emoji.png)
 
+![Demonstração de uso](./gifs/starWars.gif)
+
 ## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ar.md)
 
 
@@ -37,11 +39,11 @@ Este projeto é uma aplicação web que exibe informações sobre os planetas do
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/star-wars-planets.git
+   git clone git@github.com:SamuelRocha91/javascriptStarWarsPlanets.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
-   cd star-wars-planets
+   cd javascriptStarWarsPlanets
    ```
 3. Abra o arquivo `index.html` em um navegador.
 
