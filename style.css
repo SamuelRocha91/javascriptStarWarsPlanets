@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #042658;
+    background-color: #001027;
     color: #333;
     line-height: 1.6;
 }
@@ -19,7 +19,7 @@ body {
     gap: 40px;
     padding: 40px;
     border: 1px solid #ccc;
-    background-color: #1c0650;
+    background-color :#042658;
     border-radius: 8px;
     width: 80%;
     margin: 40px auto;
@@ -93,4 +93,33 @@ body {
 
 .btn:hover {
     background-color: #0056b3;
+}
+
+#single-planet {
+    background-color: #1c1c1e;
+    color: #fff; 
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+    max-width: 400px; 
+    margin: 20px auto; 
+    text-align: center;
+}
+
+#single-planet h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffd700; 
+    margin-bottom: 10px; 
+}
+
+#single-planet p {
+    font-size: 18px; 
+    margin: 8px 0; 
+    color: #ddd;
+}
+
+#single-planet p span {
+    font-weight: bold;
+    color: #00bfff; 
 }
