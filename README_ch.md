@@ -56,9 +56,9 @@
 
 以下是我在成为开发者初期开发的其他项目：
 
-- [二进制转换器](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ch.md)
-- [像素艺术](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ch.md)
-- [待办事项列表](https://github.com/SamuelRocha91/TodoList/blob/main/README_ch.md)
-- [计算器](https://github.com/SamuelRocha91/calculator/blob/main/README_ch.md)
-- [表情生成器](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ch.md)
+- 🖥️ [二进制转换器](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ch.md)
+- 🎨 [像素艺术](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ch.md)
+- 📝 [待办事项列表](https://github.com/SamuelRocha91/TodoList/blob/main/README_ch.md)
+- 🧮 [计算器](https://github.com/SamuelRocha91/calculator/blob/main/README_ch.md)
+- 🦖 [表情生成器](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ch.md)
 ```
