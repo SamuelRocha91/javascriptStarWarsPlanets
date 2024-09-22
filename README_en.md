@@ -57,9 +57,9 @@ This project is a web application that displays information about the planets fr
 
 Here are other projects I developed during the beginning of my journey as a developer:
 
-- [Binary Converter](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md)
-- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_en.md)
-- [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_en.md)
-- [Calculator](https://github.com/SamuelRocha91/calculator/blob/main/README_en.md)
-- [Meme Generator](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_en.md)
+- 🖥️ [Binary Converter](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_en.md)
+- 📝 [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_en.md)
+- 🧮 [Calculator](https://github.com/SamuelRocha91/calculator/blob/main/README_en.md)
+- 🦖 [Meme Generator](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_en.md)
 ```
