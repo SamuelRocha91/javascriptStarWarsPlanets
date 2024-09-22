@@ -56,9 +56,9 @@
 
 Вот другие проекты, которые я разработал в начале своей карьеры как разработчик:
 
-- [Конвертер двоичных чисел](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md)
-- [Пиксельное искусство](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ru.md)
-- [Список дел](https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md)
-- [Калькулятор](https://github.com/SamuelRocha91/calculator/blob/main/README_ru.md)
-- [Генератор мемов](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ru.md)
+- 🖥️ [Конвертер двоичных чисел](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md)
+- 🎨 [Пиксельное искусство](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ru.md)
+- 📝 [Список дел](https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md)
+- 🧮 [Калькулятор](https://github.com/SamuelRocha91/calculator/blob/main/README_ru.md)
+- 🦖 [Генератор мемов](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ru.md)
 ```
