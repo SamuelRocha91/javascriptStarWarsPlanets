@@ -57,8 +57,8 @@ Este projeto é uma aplicação web que exibe informações sobre os planetas do
 
 Aqui estão outros projetos que desenvolvi durante o início da minha jornada como desenvolvedor:
 
-- [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec)
-- [Pixels Art](https://github.com/SamuelRocha91/PixelsArt)
-- [Todo List](https://github.com/SamuelRocha91/TodoList)
-- [Calculadora](https://github.com/SamuelRocha91/calculator)
-- [Meme generator](https://github.com/SamuelRocha91/memeGenerator)
+- 🖥️ [Conversor de binários](https://github.com/SamuelRocha91/Bin2Dec)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt)
+- 📝 [Todo List](https://github.com/SamuelRocha91/TodoList)
+- 🧮 [Calculadora](https://github.com/SamuelRocha91/calculator)
+- 🦖 [Meme generator](https://github.com/SamuelRocha91/memeGenerator)
