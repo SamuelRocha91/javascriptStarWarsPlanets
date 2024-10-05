@@ -1,28 +1,46 @@
-# ![Beginner Project Logo](https://img.icons8.com/emoji/48/000000/star-emoji.png) Планеты Звёздных Войн ![Beginner Project Logo](https://img.icons8.com/emoji/48/000000/star-emoji.png)
+# <img src="https://cdn-icons-png.flaticon.com/128/5701/5701867.png" alt="Beginner Logo" width="52" height="30" /> Планеты Звездных Войн <img src="https://cdn-icons-png.flaticon.com/128/5701/5701867.png" alt="Beginner Logo" width="52" height="30" />
 
-![Демонстрация использования](./gifs/starWars.gif)
+![Демонстрация](./gifs/starWars.gif)
 
-## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ar.md)
+## 🌐 
+[![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README.md) 
+[![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_es.md) 
+[![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_en.md) 
+[![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ru.md) 
+[![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ch.md) 
+[![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ar.md)
 
-## Описание
+<details>
+<summary><h2>Описание</h2></summary>
 
-Этот проект — веб-приложение, которое отображает информацию о планетах из вселенной Звёздных Войн, используя [SWAPI (Star Wars API)](https://swapi.dev/). Приложение позволяет пользователям просматривать список планет, получать информацию о конкретной планете и видеть данные о её жителях.
+Этот проект представляет собой веб-приложение, которое отображает информацию о планетах во вселенной Звездных Войн, используя [SWAPI (Star Wars API)](https://swapi.dev/). Приложение позволяет пользователям просматривать список планет, получать подробности о конкретной планете и видеть информацию о ее обитателях.
 
-## Функциональность
+</details>
 
-- Перечисление всех планет, доступных в API.
+<details>
+<summary><h2>Функциональность</h2></summary>
+
+Приложение позволяет пользователям:
+
+- Список всех планет, доступных в API.
 - Поиск планет по имени.
 - Отображение деталей планеты, включая климат, население и рельеф.
-- Показ информации о жителях каждой планеты.
+- Просмотр информации о жителях каждой планеты.
 
-## Используемые технологии
+</details>
+
+<details>
+<summary><h2>Используемые технологии</h2></summary>
 
 - HTML
 - CSS
 - JavaScript
 - Fetch API
 
-## Структура проекта
+</details>
+
+<details>
+<summary><h2>Структура проекта</h2></summary>
 
 ```
 /star-wars-planets
@@ -34,7 +52,10 @@
     └── planetas.png   # Иконка приложения
 ```
 
-## Как запустить проект
+</details>
+
+<details>
+<summary><h2>Как запустить проект</h2></summary>
 
 1. Клонируйте этот репозиторий:
    ```bash
@@ -46,19 +67,26 @@
    ```
 3. Откройте файл `index.html` в браузере.
 
-## Использование
+</details>
 
-- При загрузке страницы будет показан список планет.
-- Вы можете нажать "See More", чтобы увидеть детали планеты.
-- Используйте строку поиска для нахождения конкретных планет по имени.
+<details>
+<summary><h2>Использование</h2></summary>
 
-## Другие проекты для начинающих
+- При загрузке страницы будет отображен список планет.
+- Вы можете нажать на "See More", чтобы увидеть детали планеты.
+- Используйте строку поиска, чтобы найти конкретные планеты по имени.
 
-Вот другие проекты, которые я разработал в начале своей карьеры как разработчик:
+</details>
+
+<details>
+<summary><h2>Другие проекты для начинающих</h2></summary>
+
+Вот другие проекты, которые я разработал на начальных этапах своей карьеры разработчика:
 
 - 🖥️ [Конвертер двоичных чисел](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_ru.md)
-- 🎨 [Пиксельное искусство](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ru.md)
+- 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_ru.md)
 - 📝 [Список дел](https://github.com/SamuelRocha91/TodoList/blob/main/README_ru.md)
 - 🧮 [Калькулятор](https://github.com/SamuelRocha91/calculator/blob/main/README_ru.md)
 - 🦖 [Генератор мемов](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_ru.md)
-```
+
+</details>

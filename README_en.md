@@ -1,29 +1,46 @@
-# ![Beginner Project Logo](https://img.icons8.com/emoji/48/000000/star-emoji.png) Star Wars Planets ![Beginner Project Logo](https://img.icons8.com/emoji/48/000000/star-emoji.png)
+# <img src="https://cdn-icons-png.flaticon.com/128/5701/5701867.png" alt="Beginner Logo" width="52" height="30" /> Star Wars Planets <img src="https://cdn-icons-png.flaticon.com/128/5701/5701867.png" alt="Beginner Logo" width="52" height="30" />
 
-![Demonstração de uso](./gifs/starWars.gif)
+![Demo](./gifs/starWars.gif)
 
+## 🌐 
+[![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README.md) 
+[![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_es.md) 
+[![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_en.md) 
+[![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ru.md) 
+[![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ch.md) 
+[![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ar.md)
 
-## 🌐 [![Português](https://img.shields.io/badge/Português-green)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README.md) [![Español](https://img.shields.io/badge/Español-yellow)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_SP.MD) [![English](https://img.shields.io/badge/English-blue)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_EN.MD) [![Русский](https://img.shields.io/badge/Русский-lightgrey)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_язык.md) [![中文](https://img.shields.io/badge/中文-red)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_华语.md) [![العربية](https://img.shields.io/badge/العربية-orange)](https://github.com/SamuelRocha91/javascriptStarWarsPlanets/blob/main/README_ar.md)
+<details>
+<summary><h2>Description</h2></summary>
 
-## Description
+This project is a web application that displays information about the planets in the Star Wars universe, using the [SWAPI (Star Wars API)](https://swapi.dev/). The application allows users to view a list of planets, get details about a specific planet, and see information about its inhabitants.
 
-This project is a web application that displays information about the planets from the Star Wars universe, utilizing the [SWAPI (Star Wars API)](https://swapi.dev/). The application allows users to view a list of planets, obtain details about a specific planet, and see information about its inhabitants.
+</details>
 
-## Features
+<details>
+<summary><h2>Features</h2></summary>
+
+The application allows users to:
 
 - List all planets available in the API.
 - Search for planets by name.
 - Display details of a planet, including climate, population, and terrain.
 - Show information about the inhabitants of each planet.
 
-## Technologies Used
+</details>
+
+<details>
+<summary><h2>Technologies Used</h2></summary>
 
 - HTML
 - CSS
 - JavaScript
 - Fetch API
 
-## Project Structure
+</details>
+
+<details>
+<summary><h2>Project Structure</h2></summary>
 
 ```
 /star-wars-planets
@@ -32,10 +49,13 @@ This project is a web application that displays information about the planets fr
 ├── style.css          # Stylesheet
 ├── main.js            # Application logic
 └── icons/
-    └── planetas.png   # Application icon
+    └── planets.png    # Application icon
 ```
 
-## How to Run the Project
+</details>
+
+<details>
+<summary><h2>How to Run the Project</h2></summary>
 
 1. Clone this repository:
    ```bash
@@ -47,19 +67,26 @@ This project is a web application that displays information about the planets fr
    ```
 3. Open the `index.html` file in a browser.
 
-## Usage
+</details>
+
+<details>
+<summary><h2>Usage</h2></summary>
 
 - When the page loads, a list of planets will be displayed.
-- You can click on "See More" to view details of a planet.
+- You can click on "See More" to view details about a planet.
 - Use the search bar to find specific planets by name.
 
-## Other Beginner Projects
+</details>
 
-Here are other projects I developed during the beginning of my journey as a developer:
+<details>
+<summary><h2>Other Beginner Projects</h2></summary>
+
+Here are other projects I developed during the early stages of my journey as a developer:
 
 - 🖥️ [Binary Converter](https://github.com/SamuelRocha91/Bin2Dec/blob/main/README_en.md)
 - 🎨 [Pixels Art](https://github.com/SamuelRocha91/PixelsArt/blob/main/README_en.md)
 - 📝 [Todo List](https://github.com/SamuelRocha91/TodoList/blob/main/README_en.md)
 - 🧮 [Calculator](https://github.com/SamuelRocha91/calculator/blob/main/README_en.md)
 - 🦖 [Meme Generator](https://github.com/SamuelRocha91/memeGenerator/blob/main/README_en.md)
-```
+
+</details>
